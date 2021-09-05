@@ -8,7 +8,7 @@ class HomePage extends StatelessWidget {
         title: Text("Catalog App"),
       ),
       body: Center(
-        child: Text("Welcome to my world "),
+        child: Text("This is Sudhanshu Namdev"),
       ),
       drawer: Drawer(),
     );
